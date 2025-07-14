@@ -1,4 +1,3 @@
-- 👋 Hello, I’m Basanta Adhikari (@AAAilurus)
-- 👀 Passionate about robotics, electronics, automation, and AI-powered systems.
+    Basanta Adhikari (@AAAilurus)
 - 📫 Reach me at: thebasantaadhikari@gmail.com
 - 🔗 LinkedIn: [Basanta Adhikari](https://www.linkedin.com/in/basanta-adhikari-b80269279/)
